@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Xu7Ih9nmF5i0Ekbb4XHbXyzi7ZzGJ+2hLb04FhVyToSmTo2jnbgWs+6eeqktmp8gRUGah9uUbIk3rSPwoI7fA==",
+  "success": true,
+  "projectFilePath": "C:\\HuyNX11\\Data\\Code Mega Blog\\WebhookSlack\\WebhookSlack\\WebhookSlack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xuanh\\.nuget\\packages\\restsharp\\109.0.0-preview.1\\restsharp.109.0.0-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
